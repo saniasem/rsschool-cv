@@ -31,3 +31,9 @@ Git, Jira
 
 ##### Tools: 
 Photoshop, NPM, Webpack, Gulp, Eslint
+
+## Education
+
+- freeCodeCamp​ (HTML/CSS, JS), 2019
+- Learn.javascript.ru ​(JavaScript), 2019
+
